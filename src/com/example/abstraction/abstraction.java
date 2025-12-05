@@ -68,7 +68,7 @@ class LeagueOfLeagues extends OnlineGame {
 
 
 
-public class abstraction {
+public class Abstraction {
 
     public static void main(String[] args) {
 
